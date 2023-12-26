@@ -1,0 +1,1 @@
+This is a chat app that will involve sockets for secure communicatiion
